@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey my name is Sean
+I'm a first year CS student at the Universtiy of Virginia looking to get into Software Engineering.
+I'm from Ghana.
+I'm currently learning full stack development.
+Fun fact: I lived in 4 countries 
 
 <!--
 **Seanhru/Seanhru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
