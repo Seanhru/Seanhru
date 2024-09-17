@@ -1,5 +1,5 @@
 ### Hey my name is Sean
-I'm a first year CS student at the Universtiy of Virginia looking to get into Software Engineering.
+I'm a second year CS student at the Universtiy of Virginia looking to get into Software Engineering.
 I'm from Ghana.
 I'm currently learning full stack development.
 Fun fact: I lived in 4 countries 
